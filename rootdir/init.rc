@@ -36,7 +36,7 @@ on early-init
 
 on init
 
-sysclktz 0
+sysclktz 60
 
 loglevel 3
 
